@@ -1,0 +1,15 @@
+release/GameArea.o
+release/Item.o
+release/NextArea.o
+release/about.o
+release/gamestart.o
+release/main.o
+release/mainwindow.o
+release/option.o
+release/qrc_re.o
+release/moc_GameArea.o
+release/moc_NextArea.o
+release/moc_about.o
+release/moc_gamestart.o
+release/moc_mainwindow.o
+release/moc_option.o

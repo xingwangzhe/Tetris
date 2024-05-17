@@ -1,0 +1,15 @@
+debug/GameArea.o
+debug/Item.o
+debug/NextArea.o
+debug/about.o
+debug/gamestart.o
+debug/main.o
+debug/mainwindow.o
+debug/option.o
+debug/qrc_re.o
+debug/moc_GameArea.o
+debug/moc_NextArea.o
+debug/moc_about.o
+debug/moc_gamestart.o
+debug/moc_mainwindow.o
+debug/moc_option.o

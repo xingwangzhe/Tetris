@@ -7,7 +7,7 @@ option::option(QWidget *parent) :
 {
     ui->setupUi(this);
   player = new QMediaPlayer(this);
-   player->setMedia(QUrl("qrc:/PNG/Black/ssb.mp3"));
+   player->setMedia(QUrl("qrc:/rescoures/ssb.mp3"));
     // 设置窗口标志，禁用最小化按钮
     setWindowFlags(windowFlags() & ~Qt::WindowMinimizeButtonHint);
     setFixedSize(400, 300);

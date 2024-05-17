@@ -14,11 +14,11 @@
    <string>俄罗斯方块</string>
   </property>
   <property name="windowIcon">
-   <iconset resource="haah.qrc">
+   <iconset>
     <normaloff>:/PNG/buttonSquare_beige.png</normaloff>:/PNG/buttonSquare_beige.png</iconset>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-image: url(:/PNG/buttonSquare_grey_pressed.png);</string>
+   <string notr="true">background-image: url(:/rescoures/buttonSquare_grey_pressed.png);</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QHBoxLayout" name="horizontalLayout">
@@ -92,7 +92,7 @@
       <item>
        <widget class="QPushButton" name="pushButton">
         <property name="styleSheet">
-         <string notr="true">background-image: url(:/PNG/buttonSquare_beige.png);</string>
+         <string notr="true">background-image: url(:/rescoures/buttonSquare_beige.png);</string>
         </property>
         <property name="text">
          <string>开始游戏</string>
@@ -115,7 +115,7 @@
       <item>
        <widget class="QPushButton" name="pushButton_2">
         <property name="styleSheet">
-         <string notr="true">background-image: url(:/PNG/buttonSquare_beige.png);</string>
+         <string notr="true">background-image: url(:/rescoures/buttonSquare_beige.png);</string>
         </property>
         <property name="text">
          <string>选项</string>
@@ -138,7 +138,7 @@
       <item>
        <widget class="QPushButton" name="pushButton_3">
         <property name="styleSheet">
-         <string notr="true">background-image: url(:/PNG/buttonSquare_beige.png);</string>
+         <string notr="true">background-image: url(:/rescoures/buttonSquare_beige.png);</string>
         </property>
         <property name="text">
          <string>关于</string>
@@ -161,7 +161,7 @@
       <item>
        <widget class="QPushButton" name="pushButton_4">
         <property name="styleSheet">
-         <string notr="true">background-image: url(:/PNG/buttonSquare_beige.png);</string>
+         <string notr="true">background-image: url(:/rescoures/buttonSquare_beige.png);</string>
         </property>
         <property name="text">
          <string>退出游戏</string>
@@ -210,9 +210,7 @@
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
- <resources>
-  <include location="haah.qrc"/>
- </resources>
+ <resources/>
  <connections>
   <connection>
    <sender>pushButton_4</sender>

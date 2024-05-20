@@ -7,5 +7,3 @@
 在untitled5下找到untitled5.pro文件，使用QT5打开即可
 
 暂时不会删库跑路：）
-
-怎么在readme.md文件正确换行
